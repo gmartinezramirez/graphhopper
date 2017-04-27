@@ -42,5 +42,7 @@ local.properties
 /core/nbproject/
 /reader-overlay-data/nbproject/
 !malta-latest.osm.pbf
+chile-latest.osm.pbf
+*.pbf
 /reader-json/nbproject/
 /graph-cache
